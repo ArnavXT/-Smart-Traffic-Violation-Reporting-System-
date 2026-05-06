@@ -1,4 +1,4 @@
-Welcome to the Smart Traffic Violation Reporting System Project! 🚦🚗
+Welcome to the Smart Traffic Violation Reporting System Project! 
 
 This project leverages YOLOv10 for real-time vehicle detection and classification, dynamically adjusting traffic light timings to optimize flow and reduce congestion. Whether you're a researcher, developer, or traffic enthusiast, this system provides an innovative approach to managing traffic efficiently.
 
